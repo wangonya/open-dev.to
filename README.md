@@ -1,2 +1,2 @@
 # open-dev.to
-Open a new dev.to tab from your terminal
+Open a new dev.to browser tab from your terminal
